@@ -8,6 +8,10 @@ public class Hexagono extends FiguraDosDimensiones{
 		numLados = 6;
 		lados = ladosEntrada;
 		//Asereje ja deje deje tudejebereeeee
+		//Rompiendo el código
+		for (int i = 0; i < 10000; i++) {
+			i--;
+		}
 	}
 	
 }
